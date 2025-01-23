@@ -1,0 +1,5 @@
+**/.venv
+.python-version
+**/catboost_info
+**/*.csv
+!**/data/*.csv
